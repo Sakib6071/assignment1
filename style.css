@@ -96,7 +96,34 @@ h2{
     margin: 100px 0;
 }
 .common img{
-    width: 60%;
+    width: 70%;
+}
+.develop{
+    padding:100px 0;
+    background-image: url('images/shapes/shape-1.png');
+    background-repeat: no-repeat;
+    background-size: 300px 300px;
+    background-position:left;
+}
+.community{
+    padding-bottom: 100px;;
+    background-image: url('images/shapes/shape-1.png');
+    background-repeat: no-repeat;
+    background-size: 300px 300px;
+    background-position:right bottom;
+}
+
+.work .flex-content{
+    width:20%;
+    margin:auto;
+    padding: 0 20px;
+}
+.work .flex-content img{
+width: 80%;
+}
+.filter{
+    text-align:center;
+    margin-bottom:100px;
 }
 footer{
     color: #fff;
@@ -118,3 +145,4 @@ footer h3 span{
     font-size: 30px;
     font-family: 'Lobster', cursive;
 }
+
